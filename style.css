@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+.title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #efefc9;
+    padding:2rem;
+
+}
+.nav-link ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 2rem;
+
+}
+.nav-link ul li {
+    display: flex;
+    align-items: center;
+    margin: 0 2rem;
+}
+
+}
+.nav-link ul li a {
+    text-decoration: none;
+}
+
